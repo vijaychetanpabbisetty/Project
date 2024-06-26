@@ -15,7 +15,7 @@
         "startDate": "2020",
         "description": "The most expansive application I had the opportunity to work on handles over 500,000 users across 86+ countries. This application allows users to find relations in their bloodline. Through this project, I have learned and utilized many technologies.",
         "images": [
-           "/images/portfolio/animal-shelter/p1.jpg",
+           "images/portfolio/animal-shelter/p1.jpg",
     "/images/portfolio/animal-shelter/p2.jpg"
         ],
         "url": "https://bline.netlify.app/",
@@ -39,7 +39,7 @@
         "startDate": "2024",
         "description": "For a school project, I developed a grading tool for ASU. I was responsible for creating the front end of the tool. The purpose of the project was to replace traditional Excel sheets used by professors to grade assignments. I earned an A grade for this project.",
         "images": [
-          "/images/portfolio/photography/p1.jpg",
+          "images/portfolio/photography/p1.jpg",
           "/images/portfolio/photography/p2.jpg"
         ],
         "url": "https://github.com",
@@ -63,7 +63,7 @@
         "startDate": "2023",
         "description": "For a school project, I developed a tool using front-end technologies like React and JavaScript for the logic. This tool integrates with Discord and recommends games for gamers. I was responsible for the front-end implementation and learned a lot from this experience.",
         "images": [
-          "/images/portfolio/adventure/p1.jpg",
+          "images/portfolio/adventure/p1.jpg",
           "/images/portfolio/adventure/p2.jpg"
         ],
         "technologies": [
