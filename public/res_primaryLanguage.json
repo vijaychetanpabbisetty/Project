@@ -1,0 +1,135 @@
+{
+    "basic_info": {
+      "description_header": "Hi",
+      "description": "👋 I'm Vijaychetan Pabbisetty. I'm working with newest front-end frameworks Angular, React and Vue. What you are seeing now is portfolio of Vijaychetan. Thank you ",
+      "section_name": {
+        "about": "About me",
+        "projects": "Projects",
+        "skills": "Skills",
+        "experience": "Experience"
+      }
+    },
+    "projects": [
+      {
+        "title": "BloodLine",
+        "startDate": "2020",
+        "description": "The most expansive application I had the opportunity to work on handles over 500,000 users across 86+ countries. This application allows users to find relations in their bloodline. Through this project, I have learned and utilized many technologies.",
+        "images": [
+           "/images/portfolio/animal-shelter/p1.jpg",
+    "/images/portfolio/animal-shelter/p2.jpg"
+        ],
+        "url": "https://bline.netlify.app/",
+        "technologies": [
+          {
+            "class": "devicon-vuejs-plain",
+            "name": "Vue"
+          },
+          {
+            "class": "devicon-javascript-plain",
+            "name": "JavaScript"
+          },
+          {
+            "class": "devicon-mongodb-plain",
+            "name": "MongoDB"
+          }
+        ]
+      },
+      {
+        "title": "Project Grading Tool",
+        "startDate": "2024",
+        "description": "For a school project, I developed a grading tool for ASU. I was responsible for creating the front end of the tool. The purpose of the project was to replace traditional Excel sheets used by professors to grade assignments. I earned an A grade for this project.",
+        "images": [
+          "/images/portfolio/photography/p1.jpg",
+          "/images/portfolio/photography/p2.jpg"
+        ],
+        "url": "https://github.com",
+        "technologies": [
+          {
+            "class": "devicon-react-original",
+            "name": "React"
+          },
+          {
+            "class": "devicon-javascript-plain",
+            "name": "JavaScript"
+          },
+          {
+            "class": "devicon-python-plain",
+            "name": "Python"
+          }
+        ]
+      },
+      {
+        "title": "Game Night Recommender",
+        "startDate": "2023",
+        "description": "For a school project, I developed a tool using front-end technologies like React and JavaScript for the logic. This tool integrates with Discord and recommends games for gamers. I was responsible for the front-end implementation and learned a lot from this experience.",
+        "images": [
+          "/images/portfolio/adventure/p1.jpg",
+          "/images/portfolio/adventure/p2.jpg"
+        ],
+        "technologies": [
+          {
+            "class": "devicon-react-original",
+            "name": "React"
+          },
+          {
+            "class": "devicon-javascript-plain",
+            "name": "JavaScript"
+          },
+          {
+            "class": "devicon-mongodb-plain",
+            "name": "MongoDB"
+          }
+        ]
+      }
+    ],
+    "experience": [
+      {
+        "company": "Hello Fresh",
+        "title": "Full-Stack Developer",
+        "years": "08.2023 - present",
+        "mainTech": [
+          "React", "Python"
+        ],
+        "technologies": [
+          "React",
+          "JavaScript",
+          "Python",
+          "Bootstrap",
+          "MongoDB",
+          "AWS"
+        ]
+      },
+      {
+        "company": "Accenture",
+        "title": "Application Development Associate",
+        "years": "08.2021 - 08.2022",
+        "mainTech": [
+          "Java 8", "SpringBoot"
+        ],
+        "technologies": [
+          "Java",
+          "SpringBoot",
+          "Kafka",
+          "AWS",
+          "Docker"
+        ]
+      },
+      {
+        "company": "GenPact",
+        "title": "Software Development Engineer",
+        "years": "06.2020 - 07.2021",
+        "mainTech": [
+          "Java 8"
+        ],
+        "technologies": [
+          "Java",
+          "Jsp",
+          "JavaScript",
+          "AWS"
+          
+        ]
+      }
+
+      
+    ]
+  }
